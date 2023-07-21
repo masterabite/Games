@@ -1,0 +1,134 @@
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\Opentk2d.exe.config
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\Opentk2d.exe
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\Opentk2d.pdb
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.dll
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.pdb
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.xml
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+d:\trash\Projects\Opentk2d\Opentk2d\obj\Debug\Opentk2d.csprojResolveAssemblyReference.cache
+d:\trash\Projects\Opentk2d\Opentk2d\obj\Debug\Opentk2d.exe
+d:\trash\Projects\Opentk2d\Opentk2d\obj\Debug\Opentk2d.pdb
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\bkg.jpg
+d:\trash\Projects\Opentk2d\Opentk2d\bin\Debug\svar.png
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.exe
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.pdb
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\Opentk2d.exe.config
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\Opentk2d.exe
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\Opentk2d.pdb
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.dll
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.pdb
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.xml
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+C:\Users\stesh\Desktop\Новая папка\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\Opentk2d.exe.config
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\Opentk2d.exe
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\Opentk2d.pdb
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.dll
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.pdb
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.xml
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\stesh\Desktop\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.exe
+C:\Users\stesh\Desktop\Марио\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.dll
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.xml
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Работа\Марио\Марио\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Работа\Марио\Марио\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.dll
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.xml
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Работа\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.dll
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.xml
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Я\Работа\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.dll
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.xml
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Работа\mario2\Марио\Марио\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.dll
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.xml
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Я\Работа\марио2\Марио\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.pdb
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe.config
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.exe
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\Opentk2d.pdb
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.dll
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.dll
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.pdb
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.xml
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.pdb
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\bin\Debug\OpenTK.GLControl.xml
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.AssemblyReference.cache
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.SuggestedBindingRedirects.cache
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CoreCompileInputs.cache
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.csproj.CopyComplete
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.exe
+D:\Работа\OpenTK_MarioJump\OpenTK_MarioJump\Opentk2d\obj\Debug\Opentk2d.pdb
